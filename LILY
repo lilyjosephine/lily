@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lily Josephine Ambrose - Personal Webpage</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #000;
+            color: #fff;
+            margin: 20px;
+        }
+
+        header {
+            text-align: center;
+            padding: 20px;
+        }
+
+        section {
+            margin-bottom: 30px;
+        }
+
+        h2 {
+            color: #fff;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>Lily Josephine Ambrose</h1>
+        <p>Singer from England</p>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>
+            Hello! I'm Lily Josephine Ambrose, a passionate singer based in England. Music is my life, and I love
+            expressing myself through song. Whether it's the joy of pop, the soul of R&B, or the emotion of a
+            ballad, I pour my heart into every note.
+        </p>
+    </section>
+
+    <!-- You can add more sections as needed -->
+
+    </body>
+
+</html>
